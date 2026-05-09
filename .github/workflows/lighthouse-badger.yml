@@ -22,7 +22,7 @@ env:
 
 # TRIGGERS
 on:
-  page_build:
+  workflow_dispatch: # manual only — requires PAT token to run automatically
   # schedule: # Check your schedule here => https://crontab.guru/
   #   - cron: '55 23 * * 0' # e.g. every Sunday at 23:55
   #
