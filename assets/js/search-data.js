@@ -118,17 +118,6 @@ ninja.data = [{
             window.location.href = "/blog/2024/code-diff/";
           
         },
-      },{id: "post-a-post-with-advanced-image-components",
-        
-          title: "a post with advanced image components",
-        
-        description: "this is what advanced image components could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/advanced-images/";
-          
-        },
       },{id: "post-a-post-with-vega-lite",
         
           title: "a post with vega lite",
@@ -480,13 +469,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("/assets/pdf/CV_Xiaotian_Liu_2026.pdf", "_blank");
-        },
-      },{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%78%69%61%6F%74%69%61%6E.%6C%69%75-%32.%67%72@%64%61%72%74%6D%6F%75%74%68.%65%64%75", "_blank");
         },
       },{
         id: 'social-github',
