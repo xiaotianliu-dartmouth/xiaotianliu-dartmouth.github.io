@@ -9,8 +9,6 @@ cv:
     iterative refinement, and flow-based models. Published and accepted work spans neural
     operators for scientific computing (ICML 2026 Spotlight, top 2.2%), ensemble learning
     optimization theory (NeurIPS 2024), and multi-modal contrastive learning (IEEE TPAMI 2022).
-    Current research achieves 50–80% error reduction on challenging physics benchmarks
-    while maintaining computational efficiency and theoretical guarantees.
 
   social_networks:
     - network: LinkedIn
