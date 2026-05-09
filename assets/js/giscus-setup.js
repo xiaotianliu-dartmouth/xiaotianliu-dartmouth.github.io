@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "xiaotianliu-dartmouth/xiaotian-personal-website",
+    "data-repo": "xiaotianliu-dartmouth/xiaotianliu-dartmouth.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
