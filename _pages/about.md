@@ -22,7 +22,7 @@ latest_posts:
   enabled: false
 ---
 
-Hi, I'm Xiaotian Liu, a third-year Ph.D. candidate at Dartmouth College, advised by [Dr. Yaoqing Yang](https://sites.google.com/view/yaoqingyang). My research interests include scientific machine learning, generative models, reinforcement learning for algorithm discovery, and optimization theory.
+Hi, I'm Xiaotian Liu, a third-year Ph.D. candidate at Dartmouth College, advised by [Dr. Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/). My research interests include scientific machine learning, generative models, reinforcement learning for algorithm discovery, and optimization theory.
 
 Before coming to Dartmouth, I received both my B.S. in Mathematics and Computer Science and my M.S. in Computer Science from Wake Forest University — Go Deacs! — where I was advised by [Dr. Grey Ballard](https://users.wfu.edu/ballard/).
 

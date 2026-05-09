@@ -1,6 +1,7 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+cv_pdf: /assets/pdf/CV_Xiaotian_Liu_2026.pdf # path to your CV PDF file
 email: xiaotian.liu-2.gr@dartmouth.edu # your email address
 github_username: xiaotianliu-dartmouth # your GitHub username
 linkedin_username: xiaotian-liu-700051139 # your LinkedIn username
