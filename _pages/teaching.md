@@ -2,15 +2,15 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Teaching assistant positions at Dartmouth College and Wake Forest University.
+description:
 nav: true
 nav_order: 6
 ---
 
 ## Dartmouth College
 
-- **Introduction to Algorithms** — Head TA *(2023 – present)*
-- **Discrete Mathematics** — TA *(2023 – present)*
+- **Introduction to Algorithms** — Head TA *(Fall 2024)*
+- **Discrete Mathematics** — TA *(Fall 2023)*
 
 ## Wake Forest University
 

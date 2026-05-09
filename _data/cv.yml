@@ -1,13 +1,14 @@
 cv:
   name: Xiaotian Liu
   label: Ph.D. Candidate in Computer Science
-  email: Xiaotian.Liu-2.GR@Dartmouth.edu
+  email: Xiaotian.Liu-2.GR at Dartmouth.edu
   location: Lebanon, NH
   image: ""
   summary: >
     Ph.D. candidate specializing in AI for Science with experience in neural operators,
-    iterative refinement, and flow-based models. Published work in ensemble learning
-    optimization theory (NeurIPS 2024) and multi-modal contrastive learning (IEEE TPAMI 2022).
+    iterative refinement, and flow-based models. Published and accepted work spans neural
+    operators for scientific computing (ICML 2026 Spotlight, top 2.2%), ensemble learning
+    optimization theory (NeurIPS 2024), and multi-modal contrastive learning (IEEE TPAMI 2022).
     Current research achieves 50–80% error reduction on challenging physics benchmarks
     while maintaining computational efficiency and theoretical guarantees.
 
@@ -59,28 +60,22 @@ cv:
         end_date: present
         summary: "Advisor: Dr. Yaoqing Yang"
         highlights:
-          - "Designed iterative refinement framework for neural operators; achieved 50–70% relative error reduction across fluid dynamics, active matter, and climate benchmarks with convergence rate O(log(‖e₀‖/ε))"
-          - "Large-scale distributed training across 12 A100 GPUs on ERA5 global weather reanalysis (4.7 TB) and turbulent flow datasets"
-          - "Developed RL4RLA, a curriculum-driven framework that rediscovered 11 classical randomized linear algebra algorithms with 10× improvement in multi-objective performance"
-          - "Developed SharpBalance algorithm achieving 2.5% accuracy improvement on OOD tasks with <1% computational overhead (NeurIPS 2024)"
+          - "**[ICML 2026 Spotlight]** Developed IRNO, an iterative refinement framework for neural operators achieving 50–80% relative error reduction across fluid dynamics, active matter, and climate benchmarks, with convergence rate O(log(‖e₀‖/ε)) and large-scale training across 12 A100 GPUs on ERA5 (4.7 TB)"
+          - "**[ICML 2026]** Developed RL4RLA, a curriculum-driven RL framework that autonomously rediscovered 11 classical randomized linear algebra algorithms with 10× improvement in multi-objective performance"
+          - "**[NeurIPS 2024]** Developed SharpBalance, achieving 2.5% accuracy improvement on OOD tasks with <1% computational overhead via theoretical analysis of the sharpness-diversity tradeoff"
 
       - company: Dartmouth College
-        position: Teaching Assistant
+        position: Head Teaching Assistant, Introduction to Algorithms
+        location: Hanover, NH
+        start_date: "2024-09"
+        end_date: "2024-12"
+
+      - company: Dartmouth College
+        position: Teaching Assistant, Discrete Mathematics
         location: Hanover, NH
         start_date: "2023-09"
-        end_date: present
-        highlights:
-          - "Head TA, Introduction to Algorithms"
-          - "TA, Discrete Mathematics"
+        end_date: "2023-12"
 
-      - company: Dartmouth College
-        position: Reviewer
-        location: Hanover, NH
-        start_date: "2024"
-        end_date: present
-        highlights:
-          - "ICLR (2025, 2026), ICML (2026), AISTATS (2025, 2026), ACL (2024), IEEE TNNLS, IEEE TPAMI"
-          - "Best Reviewer Award (top 4%), AISTATS 2025"
 
       - company: Wake Forest University
         position: Research Assistant
