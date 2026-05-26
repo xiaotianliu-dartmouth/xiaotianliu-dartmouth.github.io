@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started my Ph.D. at Dartmouth College, advised by [Dr. Yaoqing Yang](https://sites.google.com/view/yaoqingyang).
+Started my Ph.D. at Dartmouth College, advised by [Dr. Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/).
