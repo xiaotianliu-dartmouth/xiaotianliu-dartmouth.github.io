@@ -51,6 +51,14 @@ cv:
           - "GPA: 3.68/4.0, Magna Cum Laude"
 
     Experience:
+      - company: Adobe
+        position: Research Intern
+        start_date: "2026-06"
+        end_date: "2026-09"
+        summary: "Firefly team"
+        highlights:
+          - "Research on OPD for few-step text-to-image generation, developing methods to distill multi-step teachers into few-step students."
+
       - company: Dartmouth College
         position: Graduate Research Assistant
         location: Hanover, NH
@@ -73,7 +81,6 @@ cv:
         location: Hanover, NH
         start_date: "2023-09"
         end_date: "2023-12"
-
 
       - company: Wake Forest University
         position: Research Assistant

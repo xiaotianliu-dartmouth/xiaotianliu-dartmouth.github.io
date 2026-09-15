@@ -26,4 +26,6 @@ Hi, I'm Xiaotian Liu, a third-year Ph.D. candidate at Dartmouth College, advised
 
 Before coming to Dartmouth, I received both my B.S. in Mathematics and Computer Science and my M.S. in Computer Science from Wake Forest University (Go Deacs!) where I was advised by [Dr. Grey Ballard](https://users.wfu.edu/ballard/).
 
+From June to September 2026, I am a **Research Intern on Adobe's Firefly team**. My research focuses on OPD for few-step text-to-image generation, developing methods to distill multi-step teachers into few-step students.
+
 Outside of research, I enjoy snowboarding and am currently learning how to ski.
